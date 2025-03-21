@@ -1,0 +1,47 @@
+/* h1 {
+    color: red;
+}
+
+p {
+    color: rgb(255, 170, 0);
+}
+
+button {
+    color: rgb(95, 165, 42);
+    background-color: rgb(255, 0, 85);
+}
+
+body {
+    background-color: #ffff00;
+}
+ */
+
+ /* universal selector */
+ *{
+    color: blue;
+ }
+
+ /* element selector */
+
+ /* h1 {
+    color: green;
+ } */
+
+ button {
+    color: brown;
+ }
+
+ /* id selector */
+
+ #headingOne {
+    color: yellow;
+ }
+ #headingTwo {
+    color: chocolate;
+ }
+ #headingThree {
+    color: violet;
+ }
+ .myclass {
+    color: magenta;
+ }
