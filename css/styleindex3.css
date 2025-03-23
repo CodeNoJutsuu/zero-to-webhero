@@ -1,0 +1,22 @@
+div {
+    height: 100px;
+    background-color: pink;
+    width: 100px;
+    /* border-width: 5px;
+    border-style: double;
+    border-color: yellow; */
+    border: 5px double yellow;
+    border-radius: 50%;
+}
+
+/* h1 {
+    height: 50px;
+    width: 200px;
+    background-color: aquamarine;
+    /* border-width: 3px;
+    border-style: dashed;
+    border-color: black; */
+    border: 3px dashed black;
+    text-align: center;
+} */
+
