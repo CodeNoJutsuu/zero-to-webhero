@@ -43,3 +43,14 @@
 // }
 
 //write a program that reverses all the elements of an array
+let num=[12,13,14,15,16];
+let i=0;;
+let j=num.length-1;
+while(i<j){
+let temp=num[i];
+num[i]=num[j];
+num[j]=temp;
+i++;
+j--;
+}
+console.log(num);
