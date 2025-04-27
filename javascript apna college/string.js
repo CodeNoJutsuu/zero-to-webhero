@@ -4,7 +4,7 @@
 // console.log(str.length);
 // console.log(str[8]);
 
-//template literal-we use backtick ``
+// template literal-we use backtick ``
 // let obj={
 //     item:"pen",
 //     price:10,
@@ -18,12 +18,13 @@
 // console.log(specialstring);
 
 
-//escape character
+// // escape character
 // console.log("rohit\nkumar");
 // console.log("rohit\tkumar");
 
 
 //string method in javascript
+//strings are immutable in javascript
 // let str="Rohit Kumar";
 // console.log(str.toUpperCase());
 // console.log(str.toLowerCase());
@@ -34,7 +35,7 @@
 // console.log(str.trim());
 
 
-//more string method in js
+// more string method in js
 // let str="hello";
 // console.log(str.slice(0,3));
 

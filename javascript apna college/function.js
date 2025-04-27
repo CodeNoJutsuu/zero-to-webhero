@@ -16,7 +16,7 @@
 //    s=a+b;
 //    return s;
 // }
-// let value=sum(1,2);
+// let value=sum(1,2);          
 // console.log(value);
 
 
@@ -73,6 +73,8 @@
 //     console.log(val,index,arr);
 // });
 
+//Higher order function are function in js that takes another function as parameter or return another function
+
 
 //question
 //for a given array of numbers,print the square of each value using the for each loop
@@ -83,3 +85,9 @@
 //      console.log(val*val);
 // });
 
+//or
+// let nums=[67,52,39];
+// let calcSquare=(num)=>{
+//     console.log(num*num);
+// };
+// nums.forEach(calcSquare)
